@@ -1,1 +1,1 @@
-# kodilla-10.5
+# kodilla-10.5 - This, self... pułapki Javascriptu
