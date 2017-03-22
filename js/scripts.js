@@ -3,7 +3,7 @@ function Button(text) {
 }
 
 Button.prototype = {
-  create:function() {
+  create: function() {
     var self = this;
     this.$element = $('<button>');
     this.$element.text(this.text);
